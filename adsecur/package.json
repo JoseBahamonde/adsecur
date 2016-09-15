@@ -1,5 +1,5 @@
 {
-  "name": "josebahamonde-web",
+  "name": "adsecur-web",
   "version": "3.0.0",
   "description": "Personal web",
   "main": "index.html",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JoseBahamonde/landing-page.git"
+    "url": "git+https://github.com/JoseBahamonde/adsecur.git"
   },
   "author": "Jose Bahamonde Cordeiro",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/JoseBahamonde/landing-page/issues"
+    "url": "https://github.com/JoseBahamonde/adsecur/issues"
   },
-  "homepage": "https://github.com/JoseBahamonde/landing-page#readme",
+  "homepage": "https://github.com/JoseBahamonde/adsecur#readme",
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "del": "^2.2.2",
